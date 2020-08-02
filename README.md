@@ -1,3 +1,8 @@
+This is a mock web-site for hotel... with a functionality to browse and filter all the rooms they are providing. This project was created with React backed by contentful, Netlify.
+
+
+=====================================================================================
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
