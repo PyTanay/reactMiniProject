@@ -9,7 +9,7 @@ function Home() {
     return (
         <>
             <Hero>
-                <Banner title='Luxurious rooms' subtitle='Delux rooms starting $299'>
+                <Banner title='Luxurious rooms' subtitle='Delux rooms starting $100'>
                     <Link to='/rooms' className='btn-primary'>
                         Our Rooms
                     </Link>
